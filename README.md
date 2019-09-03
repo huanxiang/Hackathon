@@ -19,7 +19,7 @@ Now go!!! Find a team and come back to read the rest of the document!
 
 ## STEP 0 - Slack
 
-First of all and most important of all, please join the S2EA Slack group that we have created here: S2EA.slack.com access is open to anyone with Roche.com account.
+First of all and most important of all, please join the S2EA Slack group that we have created here: HTTPS://S2EA.slack.com access is open to anyone with Roche.com account.
 
 Daniel Butnaru and Luis Ibanez will be available in there for any question until the Hackathon finishes. And you also have the #hackathon channel where we will publish all information about the hackathon.
 
