@@ -1,4 +1,4 @@
-#S2EA Hackathon 2019
+#S2EA Hackathon 2019#
 
 Welcome everyone, this is the document with the rules and steps to make this hackathon as painless as possible. 
 
