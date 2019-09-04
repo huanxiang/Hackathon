@@ -47,7 +47,7 @@ The final version of your app will have to be published in this repo before the 
 ## STEP 3 - Parallel computing
 During a Hackathon there is not much time, so organization is very important, make a high level grouping of functionality and divide work!. Leave someone working on the bot structure, making the integrations and having the sample working while the rest think in an idea. Once is clear divide the functionality to be more efficient. Here you have some documentation that will be very important:
 
-Sample Bot App: https://docs.google.com/document/d/1ssilt16RAt4OkZySdZdF7RXt0WVZma59NkNeLsyVMLo/edit?usp=sharing
+Sample Bot App:
 
 Heroku: https://devcenter.heroku.com
 
